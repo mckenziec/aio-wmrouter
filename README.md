@@ -1,0 +1,2 @@
+# aio-wmrouter
+An All-In-One wireless router, ad-blocker, security server, media box for a small home or cottage setup with limited internet access but a need for capturing security cam footage (and email'ing/posting images online), ad-blocking/DNS management, file sharing, and media playback over HDMI. Plan is to use cockpit for web access server management, Kodi for media playback, and a mix of other stuff for wireless/routing/firewall duties.
